@@ -1,0 +1,14 @@
+body {
+  padding: 80px;
+  font-family:"Helvetica Neue", Helvetica, sans-serif;
+  font-size: 14px;
+}
+#demo {
+  height: 100px;
+  width: 100px;
+  background-color: tomato;
+  color: #fff;
+  font-size: 1.4em;
+  line-height: 100px;
+  text-align: center;
+}
